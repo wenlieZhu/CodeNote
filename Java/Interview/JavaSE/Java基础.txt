@@ -1,0 +1,5 @@
+题目来源：https://www.nowcoder.com/
+
+1、请你说说Java和PHP的区别？
+答：（1）PHP的库函数用C实现,而Java核心运行时类库；
+（2）PHP内置模板引擎,自身就是模板语言.而Java Web需要使用JSP容器如Tomcat或第三方模板引擎。
